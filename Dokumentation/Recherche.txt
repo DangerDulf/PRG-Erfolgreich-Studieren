@@ -96,4 +96,18 @@ Recherche zum Thema Erfolgreiches Studieren und was für Probleme für Studenten
       Basis für gute Transferleistungen ist die gefordert werden.
       Auf der anderen Seite bietet sich hier auch oft die Möglichkeit der Kooperation mit Kommilitonen oder sogar Hilfestellungen
       des Dozenten oder der Dozentin.
+  Neben all diesen verschiedenen Prüfungsformen und ihren Risiken gibt es natürlich auch noch "bürokratische" Dinge wie Anmelde- und 
+  Rückmeldefristen, die bei Versäumnis auch zu einer verlängerung der Studienzeit führen können.
        
+
+Die Ausarbeitung und Klärung dieser verschiedenen Prüfungsarten ist eine gute Ausgangsposition um die Anforderungen für meine Software
+zu erarbeiten, da sie im Endeffekt Semester für Semester die Ziele sind auf die man hinarbeitet, und die meisten Probleme, die 
+während eines Studiums auftauchen in irgendeiner Art mit Ihnen zusammenhängen.
+Das wohl größte Problem was aus dem Vorherigen klar deutlich wird ist wohl das Zeitmanagment. Die Software muss also in jedem Fall
+Funktionen beinhalten, die Studenten dabei helfen, ihre Zeit besser zu organisieren. Dabei handelt es sich einmal um Deadlines, aber auch um eine stetige Hilfestellung, an der sich Studenten orientieren können.
+Außerdem sollte es eine Übersicht für Studenten geben was jeweils relevant ist, was sie vorbereiten müssen, welche Themen noch
+anstehen usw.
+Grundsätzlich wäre, sowohl für Gruppenprojekte, als auch als Hilfequelle, eine Interaktion oder Kommunikation mit Kommilitonen hilfreich,
+aufgrund der Aufgabenstellung für dieses Projekt werden solche Features wohl aber größtenteils nicht berücksichtigt werden.
+
+Falls sich noch weitere Dinge ergeben, die als Rechercheergebnis eingeordnet werden sollten, werde ich die Datei oben ergänzen.
