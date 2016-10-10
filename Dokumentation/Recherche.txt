@@ -1,3 +1,4 @@
+
 Recherche zum Thema Erfolgreiches Studieren und was für Probleme für Studenten auftreten können.
 
 1.
@@ -19,7 +20,7 @@ Recherche zum Thema Erfolgreiches Studieren und was für Probleme für Studenten
       Eine Päsentation, meist eine Mischung aus mündlichem und medialem Teil, die alleine oder in einer Gruppe
       vorgetragen wird. Kann sowohl benotet als auch unbenotet sein.
     d) Hausarbeit
-      eine sschriftliche wissenschaftliche Arbeit, die nach bestimmten Vorgaben des Dozenten oder der Dozentin
+      eine schriftliche wissenschaftliche Arbeit, die nach bestimmten Vorgaben des Dozenten oder der Dozentin
       zu einem festen Zeitpunkt abgegeben werden muss. Kann sowohl benotet als auch unbenotet sein.
     e) Projekt
       Studenten arbeiten alleine oder in Gruppen über das Semester an einem Projekt welches in der Regel in Verbindung
@@ -34,15 +35,65 @@ Recherche zum Thema Erfolgreiches Studieren und was für Probleme für Studenten
       Ich kann in diesem Rahmen nich auf alle Besonderheiten aller einzelnen Studiengänge eingehen, sondern versuche
       Dinge zu abstrahieren um eine Software zu entwickeln, die für eine große Menge an Studenten relevant und hilfreich ist.
       
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      Die Studenten können sich vorbereiten und bekommen in der
-      Prüfung Fragen gestellt, müssen Aufgaben lösen, oder auch Inhalte selber vortragen. 
+2.
+  Da ich nun die gängigen Formen von Prüfungsleistungen vorgestellt habe möchte ich nun genauer darauf eingehen um festzustellen,
+  wo jeweils Probleme auftreten können.
+    a) Schriftliche Klausurleistung
+      Schriftliche Klausuren sind im Grunde genommen eine Abfragung gelernten Wissens. Die größte Aufgabe für Studenten
+      ist also eine gute Vorbereitung, wobei verschiedene Probleme auftreten können.
+      Zum einen muss Studenten bewusst sein, was für Stoff in der Klausur abgefragt wird, zumindest so gut wie möglich.
+      Natürlich verraten Professoren nicht im Vorraus die Fragen, jedoch werden meistens wichtige Dinge hervorgehoben und
+      sogar wiederholt, unter Umständen existieren sogar mehr oder weniger öffentlich zugängliche Klausurensammlungen
+      oder es werden Altklausuren von dem Dozenten/ der Dozentin zur Verfügung gestellt.
+      Das normalerweise größere Problem stellt das Zeitmanagment dar. Wenn nicht regelmäßig während der Vorlesungszeit
+      der Stoff nachbereitet wird müssen Studenten oft wesentlich früher anfangen zu lernen als sie denken oder wollen.
+      Das passiert nicht immer, was wohl das größte Risiko bei Klausuren darstellt. Daruber hinaus werden oft Spickzettel
+      erlaubt oder sogar Kofferklausuren geschrieben, also Klausuren wo die Studenten jegliche Hilfsmittel benutzen dürfen
+      (abgesehen von Handys usw.). Das macht die Vorbereitung mit lernen und guter aufbereitung von Notizen natürlich
+      nur noch wichtiger.
+    b) Mündliche Prüfung
+      Eine mündliche Prüfung entscheidet sich eigentlich nicht groß von einem Verkaufsgespräch. Der Student oder die Studentin
+      haben ähnlich wie bei der schriftlichen Klausur die Möglichkeit sich vorzubereiten, hier kommt allerdings noch hinzu,
+      dass ein Gespräch natürlich wesentlich freier ist als ein gedrucktes bzw. geschriebenes Frage und Antwort Spiel.
+      Meist handelt die Prüfung von einem bestimmten Gebiet, und die Studenten sollten sich so gut damit auskennen, dass es gar nicht
+      groß wichtig ist was gefragt wird, weil die passenden Information grundsätzlich da ist. Außerdem lassen sich hier leichte 
+      Schwächen durch Geschicklichkeit etwas besser vertuschen als in einer Klausur. Das Gesprächsformat stellt allerdings
+      auch ein Problem für Studenten dar. Wenn man in einer Klausur beispielsweise minutenlang verzweifelt vor einer Aufgabe sitzt
+      und sie dann im Endeffekt doch noch lösen kann, interessiert das die Korrektöre nicht nur nicht, es fällt noch nicht einmal auf.
+      passiert einem etwas ähnliches im Gespräch, entsteht ein deutlicher Eindruck von fehlender Vorbereitung und unter Umständen
+      wird dies notiert und fortgefahren bevor man die Möglichkeit hat doch noch das richtige zu sagen.
+      Auch hier ist das größte Problem also die Vorbereitung, vorallem im Kotext dieses Konzeptes, da Verkäufercharme nicht
+      leicht durch eine simple app beibringen lässt.
+    c) Präsentationsleistung
+      Die Präsentation hat viel Ähnlichkeiten zur mündlichen Prüfung, ist allerdings wohl noch besser vorzubereiten,
+      da man nicht nur Informationen parat haben kann, sondern die ganze Situation kontrolliert. Man kann Schwerpunkte setzen
+      wie sie einem am besten passen, dinge im Voraus konkret ausarbeiten und kontrollieren und kann Moderationskarten oder ähnliches
+      zur Hilfe nehmen. Auch hier ist allerdings ein gewisses Verkaufstalent bzw. eine gute Rhetorik zumindest hilfreich,
+      sowie beispielsweise eine technisch sauber ausgearbeitete Powerpoint Präsentation oder ähnliches.
+      Hier ist allerdings in der Regel ein hoher Standard verlangt, genau weil Studenten sich so gut drauf vorbereiten können
+      werden oft mehr oder genauere Informationen erwartet als beispielsweise in einer mündlichen Prüfung.
+      Auch hier treten häufig Probleme aufgrund von mangelhaftem Zeitmanagment auf, so dass die Präsentation nicht ausreichend
+      überarbeitet wird oder Texte nicht so geschliffen werden wie es möglich wäre. Handelt es sich um eine Gruppenpräsentation
+      kommen außerdem Risiken dazu die durch fehlende Kommunikation oder Differenzen zwischen den Mitgliedern entstehen können.
+    d) Hausarbeit
+      Eine wissenschaftliche Arbeit wird häufig über einen längeren Zeitraum, mithifle ausgiebiger Recherche und anschließender
+      Überarbeitung, erstellt, zumindest idealerweise.
+      Neben den immer präsenten Risiken mit dem Zeitmanagment besteht bei einer Hausarbeit die Gefahr, dass sie nicht dem
+      wissenschaftlichen Standard entspricht. Sie ist beispielsweise nicht gehaltvoll genug oder es wurde technisch unsauber gearbeitet,
+      so dass zum Beispiel nicht korrekt zitiert wurde.
+    e) Projekt
+      Bei einer Projektarbeit kommt es in der Regel auf ein kontinuierliches Arbeiten an, wo wohl die meisten Probleme entsehen.
+      Ob alleine oder im Team, Studenten müssen häufig selber Deadlines und Meilensteine setzen, und sich im Zweifel selber oder
+      gegenseitig kontrollieren. Die Projektarbeit ist vielleicht die Prüfungsform mit dem größten Risiko was Zeitmanagment angeht,
+      weil häufig ein weit entfernter Abgabetermin eine falsche Ruhe hervorruft, wenn eigentlich schon regelmäßig am PRojekt gearbeitet
+      werden sollte.
+      Kommt eine Dokumentation hinzu gibt es natürlich auch Ansprüche denen diese gerecht werden muss, was Probleme verursachen kann,
+      weil Studenten diese Dokumentation oft als eher zweitrangig behandelt wird.
+    f) Praktische Übung/ Labor
+      Praktische Übungen und Labore sind Prüfungsformen mit wesentlich weniger Vorbereitungspotential als die meisten anderen genannten.
+      In der Regel gibt es zwar Vorgaben zu Themen oder auch Aufgabenstellungen die im Voraus bearbeitet bzw. vorbereitet werden können,
+      im Endeffekt geht es aber meistens um eine Leistung die direkt vor Ort erbracht werden muss, so dass eine Vorbereitung eher die 
+      Basis für gute Transferleistungen ist die gefordert werden.
+      Auf der anderen Seite bietet sich hier auch oft die Möglichkeit der Kooperation mit Kommilitonen oder sogar Hilfestellungen
+      des Dozenten oder der Dozentin.
+       
