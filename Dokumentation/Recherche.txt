@@ -1,0 +1,48 @@
+Recherche zum Thema Erfolgreiches Studieren und was für Probleme für Studenten auftreten können.
+
+1.
+  Die wohl wichtigste Voraussetzung um erfolgreich, und innerhalb der Regelzeit, ein Studium abzuschließen ist das erreichen
+  der nötigen Creditpoints(CP). Zum erhalten der CP muss man in der Regel Fächer und Module erfolgreich abschließen.
+  Diese sind grundsätzlich in zwei Kattegorien einzuteilen, Fächer in denen man eine Benotung erhält und Fächer in denen
+  man nur entweder besteht oder nicht. In beiden Fällen gibt es allerdings irgendein Maß, mal mehr und mal weniger klar,
+  welches man erreichen muss um zumindest zu bestehen, und darüber hinaus je nach Fach auch noch eine gute Note zu erreichen.
+  In diesem ersten Punkt ist für mich erstmal zweitrangig ob ein Fach benotet wird oder nicht, sondern um die Prüfungsleistungen,
+  die der Student oder die Studentin ablegen muss. Hier habe ich folgende Arten herausgearbeitet, anschließend gehe ich genauer
+  auf die einzelnen Arten ein um festzustellen was für Probleme auftreten können:
+    a) Schriftliche Klausurleistung
+      Eine schriftliche Klausur, die zu einem bestimmten Zeitpunkt im Semester, in der Regel zum Ende, geschrieben wird.
+      In der Regel werden diese Klausuren benotet und umfassen meist den Großteil des im Semester behandelten Stoffes.
+    b) Mündliche Prüfung
+      Eine Mündliche Prüfung in der der Student oder die Studentin von einem oder mehreren Prüfern auf das
+      im Semester behandelte Material getestet wird. Kann sowohl benotet als auch unbenotet sein.
+    c) Präsentationsleistung
+      Eine Päsentation, meist eine Mischung aus mündlichem und medialem Teil, die alleine oder in einer Gruppe
+      vorgetragen wird. Kann sowohl benotet als auch unbenotet sein.
+    d) Hausarbeit
+      eine sschriftliche wissenschaftliche Arbeit, die nach bestimmten Vorgaben des Dozenten oder der Dozentin
+      zu einem festen Zeitpunkt abgegeben werden muss. Kann sowohl benotet als auch unbenotet sein.
+    e) Projekt
+      Studenten arbeiten alleine oder in Gruppen über das Semester an einem Projekt welches in der Regel in Verbindung
+      mit einer schriftlichen Dokumentation abgegeben wird. Kann sowohl benotet als auch unbenotet sein.
+    f) Praktische Übungen/ Labore
+      Studenten müssen zu festen Terminen alleine oder in Gruppen Aufgaben lösen und von dem Dozenten/ der Dozentin prüfen lassen.
+    g) Sonstige
+      Es gibt noch andere Dinge die den Studenten CP bringen können, wie zum Beispiel das Absolvieren von Praktika oder
+      natürlich die Bachelorarbeit, die zum Ende eins Bachelorstudienganges geschrieben werden muss. Zum einen ist die Bachelorarbeit
+      prinzipiell eine Kombination aus Hausarbeit und einer mündlichen Prüfung, zum anderen nehme ich erstmal als
+      Grundlage für meine Software Dinge, die möglichst allgemein sind.
+      Ich kann in diesem Rahmen nich auf alle Besonderheiten aller einzelnen Studiengänge eingehen, sondern versuche
+      Dinge zu abstrahieren um eine Software zu entwickeln, die für eine große Menge an Studenten relevant und hilfreich ist.
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      Die Studenten können sich vorbereiten und bekommen in der
+      Prüfung Fragen gestellt, müssen Aufgaben lösen, oder auch Inhalte selber vortragen. 
