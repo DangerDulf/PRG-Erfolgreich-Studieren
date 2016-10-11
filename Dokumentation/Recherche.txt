@@ -111,3 +111,11 @@ Grundsätzlich wäre, sowohl für Gruppenprojekte, als auch als Hilfequelle, ein
 aufgrund der Aufgabenstellung für dieses Projekt werden solche Features wohl aber größtenteils nicht berücksichtigt werden.
 
 Falls sich noch weitere Dinge ergeben, die als Rechercheergebnis eingeordnet werden sollten, werde ich die Datei oben ergänzen.
+
+===================================
+=== Feedback Alpers, 2016-10-11 ===
+===================================
+
+Sehr umfangreiche Recherche. Damit die Ergebnisse nützlich für die Entwicklung des Projekts sind, müssten Sie Ursachen und Wirkungen deutlich knapper zusammen fassen.
+
+Damit haben Sie zwar noch keine Punkte für das Projekte, aber wenn Sie hier gut zusammenfassen, wird Ihnen das die nächsten Schritte deutlich erleichtern.
