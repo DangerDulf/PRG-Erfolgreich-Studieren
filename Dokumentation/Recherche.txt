@@ -1,4 +1,34 @@
+==========================================
+Update 25.10.2016 - DangerDulf
+==========================================
+Knappere Zusammenfassung der Rechercheergebnisse zum besseren Verständnis und damit sie als Basis für
+das Spielkonzept genutzt werden können. Die ursprünglichen Erarbeitungen lasse ich unten stehen und
+fasse sie hier nochmal zusammen.
+  1.
+  Für die meisten aufgeführten Leistungen ist eine gewisse Vorbereitung erforderlich.
+  Die Studenten müssen also in der Lage sein zu sehen, welche Dinge sie für welche Fächer vorbereiten
+  und beachten müssen und bis wann.
+  Aufgrund der oft großen Menge an Stoff wäre es auch hilfreich,
+  wenn die Software den Studenten die Möglichkeit gibt, ihre Aufgaben und ihre Zeit zu unterteilen,
+  damit nicht alles in der Woche vor der Klausur anfällt.
+  2.
+  Es wird deutlich, dass oft das Einhalten von Terminen eine Rolle spielt, ob es Hausaufgaben,
+  Hausarbeiten, oder selber gesetzte Lern- oder Projektziele sind. Die Software sollte hier die Möglichkeit
+  bieten diese Termine übersichtlich festzuhalten und nachzuvollziehen.  
+  3.
+  Kooperation und zwischen Kommilitonen ist eine teilweise notwendige, und fast immer hilfreiche Sache.
+  Die Möglichkeit sich zu koordinieren, oder auch Hilfe von Kommilitonen zu erhalten, oder auch anderen
+  Hilfe zu leisten, wäre nützlich. Im Rahmen des Projektes sind viele Aspekte dabei wohl nur bedingt
+  oder gar nicht zu realisieren bzw. zu berücksichtigen. Aus diesem Grund arbeite ich solche an dieser
+  Stelle nicht weiter aus.
+Diese Punkte sind, vielleicht immernoch nicht perfekt ausformuliert, die grundsätzlichen Dinge auf die ich mich,
+basierend auf meiner eigenen Erfahrung und Recherche, bei der Software konzentrieren möchte. Sie bieten den Anhaltspunkt,
+auf den mein Entwurf sich bezieht.
+der Entwurf wird Morgen im Laufe des Tages im Verzeichnis Dokumentation zu finden sein.
 
+==========================================
+Erste Version 10.10.2016 - DangerDulf
+==========================================
 Recherche zum Thema Erfolgreiches Studieren und was für Probleme für Studenten auftreten können.
 
 1.
